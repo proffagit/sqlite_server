@@ -1,0 +1,5 @@
+auth:
+  mode: HTTP
+  byCredentials:
+    - user: admin
+      password: YourSuperSecretPass123
